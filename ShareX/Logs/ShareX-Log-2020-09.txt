@@ -1,0 +1,444 @@
+﻿2020-09-03 09:08:24.085 - ShareX starting.
+2020-09-03 09:08:24.096 - Version: 13.1
+2020-09-03 09:08:24.096 - Build: Release
+2020-09-03 09:08:24.096 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-03 09:08:24.096 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-03 09:08:24.096 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-03 09:08:24.104 - Running as elevated process: False
+2020-09-03 09:08:24.107 - Flags: SilentRun
+2020-09-03 09:08:24.268 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-03 09:08:29.421 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-03 09:08:29.443 - MainForm init started.
+2020-09-03 09:08:29.445 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-03 09:08:30.212 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-03 09:08:30.227 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-03 09:08:30.387 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-03 09:08:31.442 - MainForm init finished.
+2020-09-03 09:08:31.731 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-03 09:08:32.602 - Startup time: 9464 ms
+2020-09-03 09:08:32.616 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-03 09:08:32.621 - CommandLine: silent
+2020-09-03 09:08:32.663 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-03 09:08:32.664 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-03 09:08:32.664 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-03 09:08:32.664 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-03 09:08:32.664 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-03 09:08:32.670 - HotkeyManager started.
+2020-09-03 09:08:32.673 - WatchFolderManager started.
+2020-09-03 09:08:50.275 - Executing: Захват области
+2020-09-03 09:09:05.504 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-03 09:09:05.504 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-03 09:09:05.858 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-03 09:09:05.860 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-03 09:09:06.118 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-03 09:09:06.206 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-03 23:52:33.273 - ShareX closing.
+2020-09-03 23:52:33.292 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-03 23:52:35.039 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-03 23:52:35.043 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-04 19:07:59.941 - ShareX starting.
+2020-09-04 19:07:59.962 - Version: 13.1
+2020-09-04 19:07:59.962 - Build: Release
+2020-09-04 19:07:59.962 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-04 19:07:59.962 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-04 19:07:59.962 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-04 19:07:59.962 - Running as elevated process: False
+2020-09-04 19:07:59.973 - Flags: SilentRun
+2020-09-04 19:08:00.059 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-04 19:08:03.934 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-04 19:08:03.960 - MainForm init started.
+2020-09-04 19:08:04.002 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-04 19:08:05.788 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-04 19:08:05.816 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-04 19:08:06.114 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-04 19:08:08.055 - MainForm init finished.
+2020-09-04 19:08:08.715 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-04 19:08:10.558 - Startup time: 11248 ms
+2020-09-04 19:08:10.561 - CommandLine: silent
+2020-09-04 19:08:10.614 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-04 19:08:10.614 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-04 19:08:10.614 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-04 19:08:10.614 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-04 19:08:10.614 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-04 19:08:10.614 - HotkeyManager started.
+2020-09-04 19:08:10.623 - WatchFolderManager started.
+2020-09-04 19:08:10.636 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-07 21:13:49.668 - ShareX starting.
+2020-09-07 21:13:49.681 - Version: 13.1
+2020-09-07 21:13:49.681 - Build: Release
+2020-09-07 21:13:49.681 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-07 21:13:49.681 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-07 21:13:49.681 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-07 21:13:49.692 - Running as elevated process: False
+2020-09-07 21:13:49.692 - Flags: SilentRun
+2020-09-07 21:13:49.923 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:13:53.656 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:13:53.681 - MainForm init started.
+2020-09-07 21:13:53.727 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:13:54.463 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:13:54.475 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:13:54.668 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:13:55.583 - MainForm init finished.
+2020-09-07 21:13:55.833 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-07 21:13:56.786 - Startup time: 7757 ms
+2020-09-07 21:13:56.793 - CommandLine: silent
+2020-09-07 21:13:56.812 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-07 21:13:56.839 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-07 21:13:56.840 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-07 21:13:56.840 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-07 21:13:56.840 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-07 21:13:56.840 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-07 21:13:56.846 - HotkeyManager started.
+2020-09-07 21:13:56.848 - WatchFolderManager started.
+2020-09-07 21:15:39.580 - ShareX closing.
+2020-09-07 21:15:39.596 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:15:40.149 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:15:40.149 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:15:40.352 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:15:40.352 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:15:40.629 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:15:40.629 - ShareX closed.
+2020-09-07 21:16:45.902 - ShareX starting.
+2020-09-07 21:16:45.918 - Version: 13.1
+2020-09-07 21:16:45.918 - Build: Release
+2020-09-07 21:16:45.918 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-07 21:16:45.918 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-07 21:16:45.918 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-07 21:16:45.934 - Running as elevated process: False
+2020-09-07 21:16:45.934 - Flags: SilentRun
+2020-09-07 21:16:46.027 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:16:50.812 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:16:50.856 - MainForm init started.
+2020-09-07 21:16:50.896 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:16:52.287 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:16:52.301 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:16:52.457 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:16:53.823 - MainForm init finished.
+2020-09-07 21:16:54.304 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-07 21:16:56.844 - Startup time: 11696 ms
+2020-09-07 21:16:56.851 - CommandLine: silent
+2020-09-07 21:16:56.877 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-07 21:16:56.981 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-07 21:16:56.981 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-07 21:16:56.982 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-07 21:16:56.982 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-07 21:16:56.982 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-07 21:16:56.990 - HotkeyManager started.
+2020-09-07 21:16:56.997 - WatchFolderManager started.
+2020-09-07 21:17:58.160 - ShareX closing.
+2020-09-07 21:17:58.180 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:17:58.957 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:17:58.957 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:17:59.176 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:17:59.176 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:17:59.473 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:17:59.473 - ShareX closed.
+2020-09-07 21:18:45.534 - ShareX starting.
+2020-09-07 21:18:45.550 - Version: 13.1
+2020-09-07 21:18:45.550 - Build: Release
+2020-09-07 21:18:45.550 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-07 21:18:45.550 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-07 21:18:45.550 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-07 21:18:45.550 - Running as elevated process: False
+2020-09-07 21:18:45.550 - Flags: SilentRun
+2020-09-07 21:18:45.596 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:18:47.143 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:18:47.159 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:18:47.175 - MainForm init started.
+2020-09-07 21:18:47.632 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:18:47.632 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:18:47.748 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:18:48.499 - MainForm init finished.
+2020-09-07 21:18:48.654 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-07 21:18:49.373 - Startup time: 4150 ms
+2020-09-07 21:18:49.389 - CommandLine: silent
+2020-09-07 21:18:49.389 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-07 21:18:49.426 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-07 21:18:49.426 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-07 21:18:49.426 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-07 21:18:49.426 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-07 21:18:49.426 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-07 21:18:49.426 - HotkeyManager started.
+2020-09-07 21:18:49.426 - WatchFolderManager started.
+2020-09-07 21:53:54.767 - ShareX closing.
+2020-09-07 21:53:54.778 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:53:55.823 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 21:53:55.823 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:53:56.089 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 21:53:56.089 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:53:56.495 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 21:53:56.495 - ShareX closed.
+2020-09-07 23:31:47.123 - ShareX starting.
+2020-09-07 23:31:47.139 - Version: 13.1
+2020-09-07 23:31:47.139 - Build: Release
+2020-09-07 23:31:47.139 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-07 23:31:47.139 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-07 23:31:47.139 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-07 23:31:47.139 - Running as elevated process: False
+2020-09-07 23:31:47.154 - Flags: SilentRun
+2020-09-07 23:31:47.186 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:31:48.795 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:31:48.811 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:31:48.826 - MainForm init started.
+2020-09-07 23:31:49.219 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:31:49.230 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:31:49.338 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:31:50.237 - MainForm init finished.
+2020-09-07 23:31:51.190 - Startup time: 4258 ms
+2020-09-07 23:31:51.190 - CommandLine: silent
+2020-09-07 23:31:51.244 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-07 23:31:51.244 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-07 23:31:51.244 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-07 23:31:51.244 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-07 23:31:51.244 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-07 23:31:51.244 - HotkeyManager started.
+2020-09-07 23:31:51.244 - WatchFolderManager started.
+2020-09-07 23:33:39.066 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:33:39.079 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:33:39.556 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:33:39.559 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:33:40.218 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:33:40.423 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:33:48.320 - CLI: "C:\Users\Павел\Documents\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2020-09-07 23:34:14.207 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:34:14.207 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:34:14.223 - Starting screen recording. Video encoder: "H.264 / x264", Audio encoder: "AAC", FPS: 30
+2020-09-07 23:34:15.018 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:34:15.018 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:34:15.222 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:34:15.692 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:34:15.692 - CLI: "C:\Users\Павел\Documents\ShareX\Tools\ffmpeg.exe" -rtbufsize 150M -f dshow -framerate 30 -i video="screen-capture-recorder":audio="virtual-audio-capturer" -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 28 -pix_fmt yuv420p -movflags +faststart -c:a aac -ac 2 -b:a 128k -y "C:\Users\Павел\Documents\ShareX\Screenshots\2020-09\V0EAODfgd3.mp4"
+2020-09-07 23:36:16.821 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:36:17.208 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:49:51.430 - ShareX closing.
+2020-09-07 23:49:51.430 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:49:52.283 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-07 23:49:52.283 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:49:52.486 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-07 23:49:52.486 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:49:52.751 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-07 23:49:52.751 - ShareX closed.
+2020-09-08 11:59:44.973 - ShareX starting.
+2020-09-08 11:59:44.989 - Version: 13.1
+2020-09-08 11:59:44.989 - Build: Release
+2020-09-08 11:59:44.989 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-08 11:59:44.989 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-08 11:59:44.989 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-08 11:59:45.006 - Running as elevated process: False
+2020-09-08 11:59:45.007 - Flags: SilentRun
+2020-09-08 11:59:45.007 - Temp files cleaned: C:\Users\Павел\AppData\Local\Temp\ShareX
+2020-09-08 11:59:45.044 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 11:59:46.475 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 11:59:46.475 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 11:59:46.491 - MainForm init started.
+2020-09-08 11:59:46.890 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 11:59:46.905 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 11:59:46.990 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 11:59:47.720 - MainForm init finished.
+2020-09-08 11:59:47.831 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-08 11:59:48.529 - Startup time: 3738 ms
+2020-09-08 11:59:48.536 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-08 11:59:48.536 - CommandLine: silent
+2020-09-08 11:59:48.567 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-08 11:59:48.567 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-08 11:59:48.567 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-08 11:59:48.567 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-08 11:59:48.567 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-08 11:59:48.567 - HotkeyManager started.
+2020-09-08 11:59:48.583 - WatchFolderManager started.
+2020-09-08 12:08:22.033 - ShareX closing.
+2020-09-08 12:08:22.045 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 12:08:23.511 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 12:08:23.511 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 12:08:23.761 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 12:08:23.761 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 15:03:58.362 - ShareX starting.
+2020-09-08 15:03:58.362 - Version: 13.1
+2020-09-08 15:03:58.362 - Build: Release
+2020-09-08 15:03:58.362 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-08 15:03:58.362 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-08 15:03:58.377 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-08 15:03:58.377 - Running as elevated process: False
+2020-09-08 15:03:58.377 - Flags: SilentRun
+2020-09-08 15:03:58.418 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 15:03:59.872 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 15:03:59.872 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 15:03:59.894 - MainForm init started.
+2020-09-08 15:04:00.304 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 15:04:00.313 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 15:04:00.401 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 15:04:01.127 - MainForm init finished.
+2020-09-08 15:04:01.259 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-08 15:04:01.963 - Startup time: 3799 ms
+2020-09-08 15:04:01.963 - CommandLine: silent
+2020-09-08 15:04:01.963 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-08 15:04:01.994 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-08 15:04:01.994 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-08 15:04:01.994 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-08 15:04:01.994 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-08 15:04:01.994 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-08 15:04:02.010 - HotkeyManager started.
+2020-09-08 15:04:02.010 - WatchFolderManager started.
+2020-09-08 16:44:07.160 - ShareX closing.
+2020-09-08 16:44:07.177 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 16:44:08.230 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-08 16:44:08.231 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 16:44:08.424 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-08 16:44:08.425 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 16:44:08.744 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-08 16:44:08.744 - ShareX closed.
+2020-09-11 17:01:32.280 - ShareX starting.
+2020-09-11 17:01:32.290 - Version: 13.1
+2020-09-11 17:01:32.290 - Build: Release
+2020-09-11 17:01:32.290 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-09-11 17:01:32.290 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-09-11 17:01:32.290 - Operating system: Windows 10 Enterprise (64-bit)
+2020-09-11 17:01:32.290 - Running as elevated process: False
+2020-09-11 17:01:32.290 - Flags: SilentRun
+2020-09-11 17:01:32.336 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:01:33.763 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:01:33.779 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:01:33.779 - MainForm init started.
+2020-09-11 17:01:34.164 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:01:34.174 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:01:34.259 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:01:34.997 - MainForm init finished.
+2020-09-11 17:01:35.124 - Exception:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'getsharex.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.NewsManager.GetNews()
+   в ShareX.NewsManager.UpdateNews()
+2020-09-11 17:01:35.849 - Startup time: 3772 ms
+2020-09-11 17:01:35.865 - CommandLine: silent
+2020-09-11 17:01:35.865 - GitHub update check failed:
+System.Net.WebException: Невозможно разрешить удаленное имя: 'api.github.com'
+   в System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   в System.Net.WebClient.DownloadString(Uri address)
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetReleases()
+   в ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   в ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdate()
+2020-09-11 17:01:35.899 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-09-11 17:01:35.899 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-09-11 17:01:35.899 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-09-11 17:01:35.899 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-09-11 17:01:35.899 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-09-11 17:01:35.902 - HotkeyManager started.
+2020-09-11 17:01:35.902 - WatchFolderManager started.
+2020-09-11 17:10:53.042 - CLI: "C:\Users\pashe\Documents\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2020-09-11 17:11:02.098 - ApplicationConfig save started: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:11:02.100 - HotkeysConfig save started: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:11:02.103 - UploadersConfig save started: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:11:02.206 - UploadersConfig save successful: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:11:02.241 - HotkeysConfig save successful: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:11:02.273 - ApplicationConfig save successful: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:11:18.482 - ApplicationConfig save started: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:11:18.482 - UploadersConfig save started: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:11:18.482 - HotkeysConfig save started: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:11:18.489 - Starting screen recording. Video encoder: "H.264 / NVENC", Audio encoder: "AAC", FPS: 30
+2020-09-11 17:11:18.566 - UploadersConfig save successful: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:11:18.603 - HotkeysConfig save successful: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:11:18.637 - ApplicationConfig save successful: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:11:19.940 - CLI: "C:\Users\pashe\Documents\ShareX\Tools\ffmpeg.exe" -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 1473 -offset_y 563 -video_size 274x182 -draw_mouse 1 -i desktop -c:v h264_nvenc -r 30 -preset llhp -b:v 3000k -pix_fmt yuv420p -y "C:\Users\pashe\Documents\ShareX\Screenshots\2020-09\6DyuDijx9n.mp4"
+2020-09-11 17:11:26.846 - Task in queue. Job: Job, Type: File, Host: 
+2020-09-11 17:11:26.866 - Task status: Preparing
+2020-09-11 17:11:26.881 - Task completed. Filename: 6DyuDijx9n.mp4, Duration: 12 ms
+2020-09-11 17:11:28.169 - URL opened: C:\Users\pashe\Documents\ShareX\Screenshots\2020-09\6DyuDijx9n.mp4
+2020-09-11 17:11:47.306 - CLI: "C:\Users\pashe\Documents\ShareX\Tools\ffmpeg.exe" -list_devices true -f dshow -i dummy
+2020-09-11 17:12:13.181 - ApplicationConfig save started: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:12:13.181 - UploadersConfig save started: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:12:13.182 - HotkeysConfig save started: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:12:13.184 - Starting screen recording. Video encoder: "H.264 / x264", Audio encoder: "AAC", FPS: 30
+2020-09-11 17:12:13.248 - UploadersConfig save successful: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:12:13.317 - HotkeysConfig save successful: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:12:13.356 - ApplicationConfig save successful: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:12:14.247 - CLI: "C:\Users\pashe\Documents\ShareX\Tools\ffmpeg.exe" -rtbufsize 150M -f gdigrab -framerate 30 -offset_x 1636 -offset_y 554 -video_size 136x204 -draw_mouse 1 -i desktop -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 30 -pix_fmt yuv420p -movflags +faststart -y "C:\Users\pashe\Documents\ShareX\Screenshots\2020-09\o8VxSagrU5.mp4"
+2020-09-11 17:12:17.242 - Task in queue. Job: Job, Type: File, Host: 
+2020-09-11 17:12:17.254 - Task status: Preparing
+2020-09-11 17:12:17.256 - Task completed. Filename: o8VxSagrU5.mp4, Duration: 1 ms
+2020-09-11 17:12:18.452 - URL opened: C:\Users\pashe\Documents\ShareX\Screenshots\2020-09\o8VxSagrU5.mp4
+2020-09-11 17:13:15.959 - ApplicationConfig save started: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:13:16.098 - ApplicationConfig save successful: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:13:16.488 - ApplicationConfig save started: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json
+2020-09-11 17:13:16.488 - UploadersConfig save started: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:13:16.488 - HotkeysConfig save started: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:13:16.587 - UploadersConfig save successful: C:\Users\pashe\Documents\ShareX\UploadersConfig.json
+2020-09-11 17:13:16.617 - HotkeysConfig save successful: C:\Users\pashe\Documents\ShareX\HotkeysConfig.json
+2020-09-11 17:13:16.642 - ApplicationConfig save successful: C:\Users\pashe\Documents\ShareX\ApplicationConfig.json

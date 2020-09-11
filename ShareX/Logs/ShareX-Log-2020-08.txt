@@ -1,0 +1,116 @@
+﻿2020-08-20 20:10:03.896 - ShareX starting.
+2020-08-20 20:10:03.918 - Version: 13.1
+2020-08-20 20:10:03.919 - Build: Release
+2020-08-20 20:10:03.919 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-08-20 20:10:03.919 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-08-20 20:10:03.921 - Operating system: Windows 10 Enterprise (64-bit)
+2020-08-20 20:10:03.924 - Running as elevated process: False
+2020-08-20 20:10:03.928 - Flags: SilentRun
+2020-08-20 20:10:04.116 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-20 20:10:13.879 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-20 20:10:13.892 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-20 20:10:14.002 - MainForm init started.
+2020-08-20 20:10:15.190 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-20 20:10:15.205 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-20 20:10:15.615 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-20 20:10:18.380 - MainForm init finished.
+2020-08-20 20:10:20.200 - Startup time: 17141 ms
+2020-08-20 20:10:20.208 - CommandLine: silent
+2020-08-20 20:10:20.286 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-08-20 20:10:20.287 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-08-20 20:10:20.287 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-08-20 20:10:20.287 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-08-20 20:10:20.287 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-08-20 20:10:20.295 - HotkeyManager started.
+2020-08-20 20:10:20.299 - WatchFolderManager started.
+2020-08-21 18:10:45.688 - ShareX starting.
+2020-08-21 18:10:45.721 - Version: 13.1
+2020-08-21 18:10:45.721 - Build: Release
+2020-08-21 18:10:45.721 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-08-21 18:10:45.721 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-08-21 18:10:45.721 - Operating system: Windows 10 Enterprise (64-bit)
+2020-08-21 18:10:45.839 - Running as elevated process: False
+2020-08-21 18:10:45.850 - Flags: SilentRun
+2020-08-21 18:10:46.009 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-21 18:10:51.223 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-21 18:10:51.236 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-21 18:10:51.246 - MainForm init started.
+2020-08-21 18:10:51.857 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-21 18:10:51.867 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-21 18:10:52.084 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-21 18:10:53.717 - MainForm init finished.
+2020-08-21 18:10:56.092 - Startup time: 11749 ms
+2020-08-21 18:10:56.097 - CommandLine: silent
+2020-08-21 18:10:56.210 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-08-21 18:10:56.211 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-08-21 18:10:56.211 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-08-21 18:10:56.211 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-08-21 18:10:56.211 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-08-21 18:10:56.288 - HotkeyManager started.
+2020-08-21 18:10:56.316 - WatchFolderManager started.
+2020-08-21 18:34:08.005 - Hotkey triggered. Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-08-21 18:34:08.005 - Executing: Захват всего экрана
+2020-08-21 18:34:08.267 - Task in queue. Job: Job, Type: Image, Host: 
+2020-08-21 18:34:08.338 - Task status: Preparing
+2020-08-21 18:34:08.438 - Image copied to clipboard.
+2020-08-21 18:34:08.507 - Image saved to file: C:\Users\Павел\Documents\ShareX\Screenshots\2020-08\chrome_X6btZ7T0iH.png
+2020-08-21 18:34:08.562 - Task completed. Filename: chrome_X6btZ7T0iH.png, Duration: 220 ms
+2020-08-21 19:11:57.419 - Hotkey triggered. Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-08-21 19:11:57.419 - Executing: Захват области
+2020-08-21 19:12:10.826 - Task in queue. Job: Job, Type: Image, Host: 
+2020-08-21 19:12:10.883 - Task status: Preparing
+2020-08-21 19:12:10.890 - Image copied to clipboard.
+2020-08-21 19:12:10.933 - Image saved to file: C:\Users\Павел\Documents\ShareX\Screenshots\2020-08\chrome_TXVjcVe2ZS.png
+2020-08-21 19:12:10.935 - Task completed. Filename: chrome_TXVjcVe2ZS.png, Duration: 97 ms
+2020-08-21 19:13:52.935 - Hotkey triggered. Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-08-21 19:13:52.936 - Executing: Захват области
+2020-08-21 19:14:00.232 - Task in queue. Job: Job, Type: Image, Host: 
+2020-08-21 19:14:00.369 - Task status: Preparing
+2020-08-21 19:14:00.540 - Image copied to clipboard.
+2020-08-21 19:14:00.545 - Image saved to file: C:\Users\Павел\Documents\ShareX\Screenshots\2020-08\chrome_bhlqhpOsUT.png
+2020-08-21 19:14:00.547 - Task completed. Filename: chrome_bhlqhpOsUT.png, Duration: 310 ms
+2020-08-21 20:45:38.214 - Hotkey triggered. Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-08-21 20:45:38.215 - Executing: Захват всего экрана
+2020-08-21 20:45:38.324 - Task in queue. Job: Job, Type: Image, Host: 
+2020-08-21 20:45:38.332 - Task status: Preparing
+2020-08-21 20:45:38.432 - Image copied to clipboard.
+2020-08-21 20:45:38.485 - Image saved to file: C:\Users\Павел\Documents\ShareX\Screenshots\2020-08\Telegram_5SI6Q187pt.png
+2020-08-21 20:45:38.519 - Task completed. Filename: Telegram_5SI6Q187pt.png, Duration: 188 ms
+2020-08-26 20:44:10.981 - ShareX starting.
+2020-08-26 20:44:11.568 - Version: 13.1
+2020-08-26 20:44:11.568 - Build: Release
+2020-08-26 20:44:11.568 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2020-08-26 20:44:11.568 - Personal path: C:\Users\Павел\Documents\ShareX
+2020-08-26 20:44:11.568 - Operating system: Windows 10 Enterprise (64-bit)
+2020-08-26 20:44:11.575 - Running as elevated process: False
+2020-08-26 20:44:11.578 - Flags: SilentRun
+2020-08-26 20:44:11.807 - ApplicationConfig load started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-26 20:44:23.804 - ApplicationConfig load finished: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-26 20:44:23.822 - UploadersConfig load started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-26 20:44:23.961 - MainForm init started.
+2020-08-26 20:44:26.002 - UploadersConfig load finished: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-26 20:44:26.016 - HotkeysConfig load started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-26 20:44:26.349 - HotkeysConfig load finished: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-26 20:44:29.931 - MainForm init finished.
+2020-08-26 20:44:35.464 - Startup time: 25692 ms
+2020-08-26 20:44:35.473 - CommandLine: silent
+2020-08-26 20:44:35.779 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-08-26 20:44:35.779 - Hotkey registered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-08-26 20:44:35.779 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-08-26 20:44:35.779 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-08-26 20:44:35.779 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-08-26 20:44:35.789 - HotkeyManager started.
+2020-08-26 20:44:35.798 - WatchFolderManager started.
+2020-08-26 20:45:25.583 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Захват области, Job: RectangleRegion
+2020-08-26 20:45:25.583 - Hotkey unregistered: Hotkey: Print Screen, Description: Захват всего экрана, Job: PrintScreen
+2020-08-26 20:45:25.583 - Hotkey unregistered: Hotkey: Alt + Print Screen, Description: Захват активного окна, Job: ActiveWindow
+2020-08-26 20:45:25.583 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Начать/Остановить запись области экрана, Job: ScreenRecorder
+2020-08-26 20:45:25.583 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Начать/Остановить запись области экрана (GIF), Job: ScreenRecorderGIF
+2020-08-26 20:45:25.662 - ShareX closing.
+2020-08-26 20:45:25.667 - ApplicationConfig save started: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-26 20:45:26.170 - ApplicationConfig save successful: C:\Users\Павел\Documents\ShareX\ApplicationConfig.json
+2020-08-26 20:45:26.170 - UploadersConfig save started: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-26 20:45:26.401 - UploadersConfig save successful: C:\Users\Павел\Documents\ShareX\UploadersConfig.json
+2020-08-26 20:45:26.401 - HotkeysConfig save started: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-26 20:45:26.769 - HotkeysConfig save successful: C:\Users\Павел\Documents\ShareX\HotkeysConfig.json
+2020-08-26 20:45:26.779 - ShareX closed.
